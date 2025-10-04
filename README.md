@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d-DorLAf)
 # minigame-1
 ## Devlog
-Components are like the paint brush, GameObjects are like the paint, and the Scene is like the canvas.
+Components are like the paint brush, GameObjects are like the paint, and the Scene is like the canvas. The Components use the GameObjects to create the game in the Scene, like how a paint brush uses paint to create an artwork on a canvas.
 
 ## Open-Source Assets
 - Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
